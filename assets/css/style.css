@@ -2382,3 +2382,14 @@ section {
 *{
   font-family: 'Tilt Neon', cursive;
 }
+
+
+#super{
+  margin-top: 200px;
+  width: 1900px;
+  background-color: rgba(0, 255, 255, 0.438);
+}
+
+#super , ul , li{
+  text-align: center;
+}
