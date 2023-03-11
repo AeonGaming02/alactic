@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444;
+  color: #ffffff;
   background: rgb(0, 0, 0);
 }
 
@@ -2392,4 +2392,17 @@ section {
 
 #super , ul , li{
   text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+.idkp , .idkend{
+  text-align: left;
+  font-size: 28px;
+}
+
+idkol{
+  text-align: left;
 }
